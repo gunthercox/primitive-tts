@@ -57,27 +57,4 @@ speak('system online')
 
 ## Samples
 
-> "system online"
-
-<p align="center">
-  <video src="samples/system-online.mp4" width="500px"></video>
-</p>
-
-> "lorem ipsum"
-
-https://github.com/gunthercox/primitive-tts/blob/main/samples/lorem-ipsum.wav
-
-> Attention captain I have finished my analysis
-
-<audio controls>
-  <source src="./samples/attention-captain-I-have-finished-my-analysis.wav" type="audio/wav">
-  Audio sample cannot be rendered.
-</audio>
-
-> The quick brown fox jumps over the lazy dog
-
-<audio controls>
-  <source src="./samples/the-quick-brown-fox-jumps-over-the-lazy-dog.wav" type="audio/wav">
-  Audio sample cannot be rendered.
-</audio>
-
+See the [`samples`](https://github.com/gunthercox/primitive-tts/tree/main/samples) directory.
