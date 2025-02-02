@@ -59,11 +59,11 @@ speak('system online')
 
 > "system online"
 
-https://github.com/gunthercox/gunthercox/blob/main/assets/system-online.mp4?raw=true
+https://github.com/gunthercox/primitive-tts/blob/main/samples/system-online.mp4
 
 > "lorem ipsum"
 
-https://github.com/gunthercox/gunthercox/blob/main/assets/lorem-ipsum.wav?raw=true
+https://github.com/gunthercox/primitive-tts/blob/main/samples/lorem-ipsum.wav
 
 > Attention captain I have finished my analysis
 
