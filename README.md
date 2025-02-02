@@ -59,17 +59,11 @@ speak('system online')
 
 > "system online"
 
-<audio controls>
-  <source src="./samples/system-online.wav" type="audio/wav">
-  Audio sample cannot be rendered.
-</audio>
+https://github.com/gunthercox/gunthercox/blob/main/assets/system-online.mp4?raw=true
 
 > "lorem ipsum"
 
-<audio controls>
-  <source src="./samples/lorem-ipsum.wav" type="audio/wav">
-  Audio sample cannot be rendered.
-</audio>
+https://github.com/gunthercox/gunthercox/blob/main/assets/lorem-ipsum.wav?raw=true
 
 > Attention captain I have finished my analysis
 
