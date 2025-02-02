@@ -59,7 +59,9 @@ speak('system online')
 
 > "system online"
 
-https://github.com/gunthercox/primitive-tts/blob/main/samples/system-online.mp4
+<p align="center">
+  <video src="samples/system-online.mp4" width="500px"></video>
+</p>
 
 > "lorem ipsum"
 
